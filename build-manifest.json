@@ -1,0 +1,17 @@
+{
+  "generated_from": 18,
+  "entries": 115,
+  "counts": {
+    "Lore": 41,
+    "Characters": 14,
+    "Factions": 4,
+    "Places": 44,
+    "Bestiary": 12
+  },
+  "local_assets": 49,
+  "notes": [
+    "Foundry secret blocks removed",
+    "Simple Quest hidden list items removed",
+    "Sample module content removed"
+  ]
+}
